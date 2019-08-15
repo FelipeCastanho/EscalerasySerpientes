@@ -1,0 +1,102 @@
+# depslib dependency file v1.0
+1417997332 source:c:\users\fhabicas\desktop\escaleras_y_serpientes\main.cpp
+	<iostream>
+	"Juego.h"
+
+1417997212 source:c:\users\fhabicas\desktop\escaleras_y_serpientes\src\escalera.cpp
+	"Escalera.h"
+
+1417997588 c:\users\fhabicas\desktop\escaleras_y_serpientes\include\escalera.h
+	<string>
+
+1418145373 source:c:\users\fhabicas\desktop\escaleras_y_serpientes\src\juego.cpp
+	"Juego.h"
+
+1418145034 c:\users\fhabicas\desktop\escaleras_y_serpientes\include\juego.h
+	<string>
+	<vector>
+	<sstream>
+	<algorithm>
+	<iostream>
+	<windows.h>
+	<cstdlib>
+	<ctime>
+	"JugadorGanador.h"
+	"Ganadores.h"
+	"FabricaJugadores.h"
+	"FabricaHumano.h"
+	"FabricaMaquina.h"
+	"Tablero.h"
+
+1418004720 c:\users\fhabicas\desktop\escaleras_y_serpientes\include\jugador.h
+	<vector>
+	<string>
+
+1416500377 c:\users\fhabicas\desktop\escaleras_y_serpientes\include\tablero.h
+	<iostream>
+	"Serpiente.h"
+	"Escalera.h"
+	<vector>
+	<string>
+
+1416501691 c:\users\fhabicas\desktop\escaleras_y_serpientes\include\serpiente.h
+	<string>
+
+1417997247 source:c:\users\fhabicas\desktop\escaleras_y_serpientes\src\jugador.cpp
+	"Jugador.h"
+
+1417997303 source:c:\users\fhabicas\desktop\escaleras_y_serpientes\src\serpiente.cpp
+	"Serpiente.h"
+
+1417997316 source:c:\users\fhabicas\desktop\escaleras_y_serpientes\src\tablero.cpp
+	"Tablero.h"
+
+1418004733 c:\users\fhabicas\desktop\escaleras_y_serpientes\include\jugadorhumano.h
+	"Jugador.h"
+
+1418004766 source:c:\users\fhabicas\desktop\escaleras_y_serpientes\src\jugadorhumano.cpp
+	"JugadorHumano.h"
+
+1417997612 c:\users\fhabicas\desktop\escaleras_y_serpientes\include\fabricajugadores.h
+	"Jugador.h"
+	"JugadorMaquina.h"
+	"JugadorHumano.h"
+
+1418004789 c:\users\fhabicas\desktop\escaleras_y_serpientes\include\jugadormaquina.h
+	"Jugador.h"
+
+1417997636 c:\users\fhabicas\desktop\escaleras_y_serpientes\include\fabricahumano.h
+	"FabricaJugadores.h"
+
+1417997699 c:\users\fhabicas\desktop\escaleras_y_serpientes\include\fabricamaquina.h
+	"FabricaJugadores.h"
+
+1417997194 source:c:\users\fhabicas\desktop\escaleras_y_serpientes\src\fabricahumano.cpp
+	"FabricaHumano.h"
+
+1418004364 source:c:\users\fhabicas\desktop\escaleras_y_serpientes\src\fabricajugadores.cpp
+	"FabricaJugadores.h"
+
+1417997194 source:c:\users\fhabicas\desktop\escaleras_y_serpientes\src\fabricamaquina.cpp
+	"FabricaMaquina.h"
+
+1418004870 source:c:\users\fhabicas\desktop\escaleras_y_serpientes\src\jugadormaquina.cpp
+	"JugadorMaquina.h"
+
+1417997194 source:c:\users\fhabicas\desktop\escaleras_y_serpientes\src\ganadores.cpp
+	"Ganadores.h"
+
+1417997825 c:\users\fhabicas\desktop\escaleras_y_serpientes\include\ganadores.h
+	"JugadorGanador.h"
+	<string>
+	<fstream>
+	<vector>
+	<algorithm>
+	<iostream>
+
+1417998020 c:\users\fhabicas\desktop\escaleras_y_serpientes\include\jugadorganador.h
+	<string>
+
+1417997271 source:c:\users\fhabicas\desktop\escaleras_y_serpientes\src\jugadorganador.cpp
+	"JugadorGanador.h"
+

@@ -1,0 +1,8 @@
+JugadorMaquina
+1150
+luis
+1150
+prueba1
+1140
+JugadorMaquina2
+1100
